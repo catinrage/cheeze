@@ -17,9 +17,13 @@
     "tracking",
     "changes"
   ],
-  "private": false,
+  "author": {
+    "name": "catinrage",
+    "email": "catinrage@gmail.com"
+  },
   "version": "0.0.0",
   "type": "module",
+  "repository": "catinrage/cheeze",
   "main": "./dist/index.umd.cjs",
   "module": "./dist/index.js",
   "types": "./dist/index.d.ts",
