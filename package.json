@@ -3,7 +3,19 @@
   "description": "Cheese is a TypeScript project that provides an minimal observable pattern for tracking and reacting to changes in values.",
   "keywords": [
     "observable",
-    "reactive"
+    "typescript",
+    "node",
+    "package",
+    "reactive",
+    "data",
+    "binding",
+    "DOM",
+    "events",
+    "input",
+    "form",
+    "state",
+    "tracking",
+    "changes"
   ],
   "private": false,
   "version": "0.0.0",
