@@ -1,6 +1,6 @@
 {
-  "name": "cheese",
-  "description": "Cheese is a TypeScript project that provides an minimal observable pattern for tracking and reacting to changes in values.",
+  "name": "cheeze",
+  "description": "Cheeze is a TypeScript project that provides an minimal observable pattern for tracking and reacting to changes in values.",
   "keywords": [
     "observable",
     "typescript",

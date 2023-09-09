@@ -7,9 +7,9 @@ function isDOMInputElement(value: unknown): value is DOMElements {
   );
 }
 
-export default function cheese(input: DOMElements): InputElementObservable;
-export default function cheese<T>(input: T): BasicObservable<T>;
-export default function cheese(input: ObservableValueOptions) {
+export default function cheeze(input: DOMElements): InputElementObservable;
+export default function cheeze<T>(input: T): BasicObservable<T>;
+export default function cheeze(input: ObservableValueOptions) {
   if (isDOMInputElement(input)) {
     return new InputElementObservable(input);
   } else {
